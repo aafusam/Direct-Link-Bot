@@ -27,12 +27,12 @@ HELP_TEXT = """
 <i>Contact Developer Or Report Bugs</i> <b>: <a href='https://t.me/AafuSam13'>[ Click Here]</a></b>"""
 
 ABOUT_TEXT = """
-<b> Mʏ ɴᴀᴍᴇ : Direct-Link-Bot</b>\n
-<b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://t.me/+0Oi54BOKV_A2YTI1'>3.1.1</a></b>\n
-<b>🔹Sᴏᴜʀᴄᴇ : <a href='https://github.com/aafusam/Direct-Link-Bot'>Click Here</a></b>\n
-<b>🔸GitHub : <a href='https://GitHub.com/aafusam'>Fᴏʟʟᴏᴡ Me</a></b>\n
+<b>🧑🏻Mʏ ɴᴀᴍᴇ : Direct-Link-Bot</b>\n
+<b>🔸Movie Channel : <a href='https://t.me/+0Oi54BOKV_A2YTI1'>Movies</a></b>\n
+<b>🔹Our Community : <a href='https://telegram.me/Apkapkapak'>Community</a></b>\n
+<b>🔹Sᴏᴜʀᴄᴇ Code : <a href='https://github.com/aafusam/Direct-Link-Bot'>Github</a></b>\n
 <b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/AafuSam13'>AafuSam</a></b>\n
-<b>🔸Instagram : <a href='https://instagram.com/afiq_sam_/'>Click Here</a></b>"""
+<b>🔸Follow On Instagram : <a href='https://instagram.com/afiq_sam_/'>Instagram</a></b>"""
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
