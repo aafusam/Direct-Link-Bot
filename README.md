@@ -60,4 +60,4 @@ Press the below button to Fast deploy on Heroku
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables. </details>
 
-- [Avishkarpatil](https://telegram.me/Avishkarpatil)
+- [Contact On Telegram](https://telegram.me/AafuSam13)
