@@ -13,7 +13,7 @@ from aiohttp import web
 from .server import web_server
 from .utils.keepalive import ping_server
 
-ppath = "WebStreamer/bot/plugins/*.py"
+ppath = "Direct-Link-Bot/bot/plugins/*.py"
 files = glob.glob(ppath)
 
 loop = asyncio.get_event_loop()
@@ -31,12 +31,12 @@ async def start_services():
         with open(name) as a:
             patt = Path(a.name)
             plugin_name = patt.stem.replace(".py", "")
-            plugins_dir = Path(f"WebStreamer/bot/plugins/{plugin_name}.py")
+            plugins_dir = Path(f"Direct-Link-Bot/bot/plugins/{plugin_name}.py")
             import_path = ".plugins.{}".format(plugin_name)
             spec = importlib.util.spec_from_file_location(import_path, plugins_dir)
             load = importlib.util.module_from_spec(spec)
             spec.loader.exec_module(load)
-            sys.modules["WebStreamer.bot.plugins." + plugin_name] = load
+            sys.modules["Direct-Link-Bot.bot.plugins." + plugin_name] = load
             print("Imported => " + plugin_name)
     print('\n')
     print('------------------- Initalizing Web Server -------------------')
