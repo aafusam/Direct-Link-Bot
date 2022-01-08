@@ -29,7 +29,7 @@ HELP_TEXT = """
 ABOUT_TEXT = """
 <b> Mʏ ɴᴀᴍᴇ : Direct-Link-Bot</b>\n
 <b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://t.me/+0Oi54BOKV_A2YTI1'>3.1.1</a></b>\n
-<b>🔹Sᴏᴜʀᴄᴇ : <a href='https://github.com/Avipatilpro/FileStreamBot'>Click Here</a></b>\n
+<b>🔹Sᴏᴜʀᴄᴇ : <a href='https://github.com/Avipatilpro/Direct-Link-Bot'>Click Here</a></b>\n
 <b>🔸GitHub : <a href='https://GitHub.com/aafusam'>Fᴏʟʟᴏᴡ Me</a></b>\n
 <b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/AafuSam13'>AafuSam</a></b>\n
 <b>🔸Instagram : <a href='https://instagram.com/afiq_sam_?'>Click Here</a></b>"""
