@@ -119,10 +119,10 @@ async def start(b, m):
             except UserNotParticipant:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="<i>Join Our Partner Channel 🔐</i>",
+                    text="<i>Join Our Channel To Use The Bot 🔐</i>",
                     reply_markup=InlineKeyboardMarkup(
                         [[
-                            InlineKeyboardButton("Jᴏɪɴ ɴᴏᴡ 🔓", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
+                            InlineKeyboardButton("Jᴏɪɴ ɴᴏᴡ 🔓", url=f"https://t.me/+0Oi54BOKV_A2YTI1")
                             ]]
                     ),
                     parse_mode="HTML"
@@ -161,7 +161,7 @@ async def start(b, m):
                     text="**Join Our Partner Channel To Use The Bot**!\n\n**Dᴜᴇ ᴛᴏ Oᴠᴇʀʟᴏᴀᴅ, Oɴʟʏ Cʜᴀɴɴᴇʟ Sᴜʙsᴄʀɪʙᴇʀs ᴄᴀɴ ᴜsᴇ ᴛʜᴇ Bᴏᴛ**!",
                     reply_markup=InlineKeyboardMarkup(
                         [[
-                          InlineKeyboardButton("🤖 Join Partner Channel", url=f"https://t.me/{Var.UPDATES_CHANNEL}")],
+                          InlineKeyboardButton("🤖 Join Partner Channel", url=f"https://t.me/+0Oi54BOKV_A2YTI1")],
                          [InlineKeyboardButton("🔄 Refresh / Try Again", url=f"https://t.me/{(await b.get_me()).username}?start=AafuSam13_{usr_cmd}")
                         
                         ]]
@@ -238,7 +238,7 @@ async def help_handler(bot, message):
                 text="**Join Our Partner Channel To Use The Bot**\n\n__Dᴜᴇ ᴛᴏ Oᴠᴇʀʟᴏᴀᴅ, Oɴʟʏ Cʜᴀɴɴᴇʟ Sᴜʙsᴄʀɪʙᴇʀs ᴄᴀɴ ᴜsᴇ ᴛʜᴇ Bᴏᴛ!__",
                 reply_markup=InlineKeyboardMarkup(
                     [[
-                        InlineKeyboardButton("🤖 Join Partner Channel", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
+                        InlineKeyboardButton("🤖 Join Partner Channel", url=f"https://t.me/+0Oi54BOKV_A2YTI1")
                         ]]
                 ),
                 parse_mode="markdown"
