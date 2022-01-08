@@ -1,7 +1,7 @@
 <h1 align="center">Direct Link Generator</h1>
 <p align="center">
   <a href="https://github.com/aafusam/Direct-Link-Bot/">
-    <img src= <"WebStreamer/img.jpg">
+     <img src="WebStreamer/img.jpg">
   </a>
   
   <p align="center">
