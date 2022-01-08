@@ -15,7 +15,7 @@ START_TEXT = """
 <i>Clickk On Help Button Get Get Info!</i>\n
 <i><u>𝗪𝗔𝗥𝗡𝗜𝗡𝗚 </u></i>
 <b>🔞 Porn Content May Lead You To A Permanent Ban</b>\n\n
-<i><b>Developer:</b>@AafuSam131</i>"""
+<i><b>Developer:</b>@AafuSam13</i>"""
 
 HELP_TEXT = """
 <i>- Forward Any Telegram File Or Media.</i>
@@ -29,10 +29,10 @@ HELP_TEXT = """
 ABOUT_TEXT = """
 <b> Mʏ ɴᴀᴍᴇ : Direct-Link-Bot</b>\n
 <b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://t.me/+0Oi54BOKV_A2YTI1'>3.1.1</a></b>\n
-<b>🔹Sᴏᴜʀᴄᴇ : <a href='https://github.com/Avipatilpro/Direct-Link-Bot'>Click Here</a></b>\n
+<b>🔹Sᴏᴜʀᴄᴇ : <a href='https://github.com/aafusam/Direct-Link-Bot'>Click Here</a></b>\n
 <b>🔸GitHub : <a href='https://GitHub.com/aafusam'>Fᴏʟʟᴏᴡ Me</a></b>\n
 <b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/AafuSam13'>AafuSam</a></b>\n
-<b>🔸Instagram : <a href='https://instagram.com/afiq_sam_?'>Click Here</a></b>"""
+<b>🔸Instagram : <a href='https://instagram.com/afiq_sam_/'>Click Here</a></b>"""
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
