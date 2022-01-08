@@ -5,20 +5,20 @@
   </a>
   
   <p align="center">
-    A Telegram bot to all media and documents files to web link .
+    A Powerful Telegram Bot That Generates A Direct High Speed Download Link For Any Of Your File.
     <br />
    </strong></a>
     <br />
-    <a href="https://github.com/Avipatilpro/FileStreamBot/issues">Report a Bug</a>
+    <a href="https://github.com/aafusam/Direct-Link-Bot//issues">Report a Bug</a>
     |
-    <a href="https://github.com/Avipatilpro/FileStreamBot/issues">Request Feature</a>
+    <a href="https://github.com/aafusam/Direct-Link-Bot//issues">Request Feature</a>
   </p>
 </p>
 
 <br>
 
 #### Demo Bot:  
-<a href="https://telegram.me/FxStreamBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<a href="https://telegram.me/Direct_Link_RoBot">
 
 <hr>
 
