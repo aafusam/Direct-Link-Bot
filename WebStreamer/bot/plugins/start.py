@@ -28,7 +28,7 @@ HELP_TEXT = """
 
 ABOUT_TEXT = """
 <b>🧑🏻Mʏ ɴᴀᴍᴇ : Direct-Link-Bot</b>\n
-<b>🔸Movie Channel : <a href='https://t.me/+0Oi54BOKV_A2YTI1'>Movies</a></b>\n
+<b>🔸Movie Channel : <a href='https://t.me/+8HAHEgTmHYw1NmI1'>Movies</a></b>\n
 <b>🔹Our Community : <a href='https://telegram.me/Apkapkapak'>Community</a></b>\n
 <b>🔹Sᴏᴜʀᴄᴇ Code : <a href='https://github.com/aafusam/Direct-Link-Bot'>Github</a></b>\n
 <b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/AafuSam13'>AafuSam</a></b>\n
