@@ -15,7 +15,7 @@ START_TEXT = """
 <i>Clickk On Help Button Get Get Info!</i>\n
 <i><u>𝗪𝗔𝗥𝗡𝗜𝗡𝗚 </u></i>
 <b>🔞 Porn Content May Lead You To A Permanent Ban</b>\n\n
-<i><b>Developer:</b>@AafuSam13</i>"""
+<i><b>Developer:</b>@AafuSam013</i>"""
 
 HELP_TEXT = """
 <i>- Forward Any Telegram File Or Media.</i>
@@ -24,14 +24,14 @@ HELP_TEXT = """
 <i>- This Is A Permanent Link</i>\n
 <u> 𝗪𝗔𝗥𝗡𝗜𝗡𝗚 </u>\n
 <b>🔞 Porn Content May Lead You To A Permanent Ban</b>\n
-<i>Contact Developer Or Report Bugs</i> <b>: <a href='https://t.me/AafuSam13'>[ Click Here]</a></b>"""
+<i>Contact Developer Or Report Bugs</i> <b>: <a href='https://t.me/AafuSam013'>[ Click Here]</a></b>"""
 
 ABOUT_TEXT = """
 <b>🧑🏻Mʏ ɴᴀᴍᴇ : Direct-Link-Bot</b>\n
-<b>🔸Movie Channel : <a href='https://t.me/+8HAHEgTmHYw1NmI1'>Movies</a></b>\n
-<b>🔹Our Community : <a href='https://telegram.me/Apkapkapak'>Community</a></b>\n
+<b>🔸Movie Group : <a href='https://t.me/+VFyIZHcaMQtiYzRl'>Movies</a></b>\n
+<b>🔹Our Network : <a href='https://t.me/StarterNetworkZ'>Join</a></b>\n
 <b>🔹Sᴏᴜʀᴄᴇ Code : <a href='https://github.com/aafusam/Direct-Link-Bot'>Github</a></b>\n
-<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/AafuSam13'>AafuSam</a></b>\n
+<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/AafuSam013'>AafuSam</a></b>\n
 <b>🔸Follow On Instagram : <a href='https://instagram.com/afiq_sam_/'>Instagram</a></b>"""
 
 START_BUTTONS = InlineKeyboardMarkup(
@@ -111,7 +111,7 @@ async def start(b, m):
                 if user.status == "kicked":
                     await b.send_message(
                         chat_id=m.chat.id,
-                        text="__Hey, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ. Cᴏɴᴛᴀᴄᴛ ᴛʜᴇ Dᴇᴠᴇʟᴏᴘᴇʀ__\n\n @AafuSam13 **Tʜᴇʏ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ**",
+                        text="__Hey, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ. Cᴏɴᴛᴀᴄᴛ ᴛʜᴇ Dᴇᴠᴇʟᴏᴘᴇʀ__\n\n @AafuSam013 **Tʜᴇʏ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ**",
                         parse_mode="markdown",
                         disable_web_page_preview=True
                     )
@@ -131,7 +131,7 @@ async def start(b, m):
             except Exception:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="<i>Sᴏᴍᴇᴛʜɪɴɢ ᴡʀᴏɴɢ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ</i> <b><a href='http://t.me/AafuSam13'>[ Click Here ]</a></b>",
+                    text="<i>Sᴏᴍᴇᴛʜɪɴɢ ᴡʀᴏɴɢ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ</i> <b><a href='http://t.me/AafuSam013'>[ Click Here ]</a></b>",
                     parse_mode="HTML",
                     disable_web_page_preview=True)
                 return
