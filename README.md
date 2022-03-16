@@ -61,3 +61,11 @@ Press the below button to Fast deploy on Heroku
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables. </details>
 
 - [Contact On Telegram](https://telegram.me/AafuSam13)
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
