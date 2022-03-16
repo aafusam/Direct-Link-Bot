@@ -29,5 +29,4 @@ class Var(object):
         "http://{}:{}/".format(FQDN, PORT)
     DATABASE_URL = str(getenv('mongodb+srv://afiqsam:afiqsam@cluster0.0wb1c.mongodb.net/afiqsam?retryWrites=true&w=majority'))
     PING_INTERVAL = int(getenv('PING_INTERVAL', '500'))
-    UPDATES_CHANNEL = str(getenv('https://t.me/StarterNetworkz', None))
-    BANNED_CHANNELS = list(set(int(x) for x in str(getenv("BANNED_CHANNELS", "BANNED_CHANNELS")).split()))
+    
