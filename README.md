@@ -65,7 +65,7 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 <p>
 <br>
 <a href="https://railway.app/deploy">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://www.back4app.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
