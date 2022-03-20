@@ -1,6 +1,6 @@
 {
-  "name": "Direct-Link-Bot",
-  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @AafuSam13",
+  "name": "Avi-FileStreamBot",
+  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @Avishkarpatil",
   "keywords": [
       "telegram",
       "stream",
@@ -12,7 +12,7 @@
       "modular",
       "media"
     ],
-  "repository": "https://github.com/aafusam/Direct-Link-Bot//",
+  "repository": "https://github.com/avipatilpro/FileStreamBot/",
   "success_url": "/",
   "logo": "https://i.ibb.co/ZJzJ9Hq/link-3x.png",
   "website": "avipatilweb.ml",
@@ -22,24 +22,19 @@
           "value": "True"
       },
       "APP_NAME": {
-          "description": "Copy-Paste the app name that you just typed above.",
-          "value": "aafusam-directlink"
+          "description": "Copy-Paste the app name that you just typed above."
       },
       "API_ID": {
-          "description": "Get this value from https://my.telegram.org",
-          "value": "8730742"
+          "description": "Get this value from https://my.telegram.org"
       },
       "API_HASH": {
-          "description": "Get this value from https://my.telegram.org",
-          "value": "383511e5138110f8e9a364d7e25d6451"
+          "description": "Get this value from https://my.telegram.org"
       },
       "BOT_TOKEN": {
-          "description": "Get this value from @BotFather",
-          "value": "5119665758:AAETCxcIzOBeJgLZOT42Haj209eEG49d8bQ"
+          "description": "Get this value from @BotFather"
       },
       "BIN_CHANNEL": {
-          "description": "The BIN Channel ID. Read the readme for more info about this var",
-          "value": "-1001322160987"
+          "description": "The BIN Channel ID. Read the readme for more info about this var"
           
       },
       "PING_INTERVAL": {
@@ -47,12 +42,10 @@
           "required": false
       },
       "DATABASE_URL": {
-          "description": "MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can ask in Support Group: https://t.me/linux_repo",
-          "value": "mongodb+srv://afiqsam:afiqsam@cluster0.0wb1c.mongodb.net/afiqsam?retryWrites=true&w=majority"
+          "description": "MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can ask in Support Group: https://t.me/linux_repo"
       },
       "OWNER_ID": {
-          "description": "Your Telegram User ID",
-          "value": "5121304403"
+          "description": "Your Telegram User ID"
       },
       "BANNED_CHANNELS": {
           "description": "Put IDs of Banned Channels where bot will not work. You can add multiple IDs & separate with Space.",
@@ -65,7 +58,6 @@
       },
       "SLEEP_THRESHOLD": {
           "description": "Floodwait Sleep timer. Read the readme for more info about this var",
-          "value": "60",
           "required": false
       },
       "WORKERS": {
@@ -90,7 +82,7 @@
           "required": false
       },
       "SESSION_NAME": {
-          "description": " Session Name for Bot",
+          "description": " Session Name for Bot [ Add AvishkarPatil ]",
           "required": false
       }
   },
