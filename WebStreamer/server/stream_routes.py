@@ -1,5 +1,3 @@
-# Avishkar Patil | AbirHasan2005
-
 import math
 import logging
 import secrets
@@ -16,7 +14,7 @@ routes = web.RouteTableDef()
 async def root_route_handler(request):
     bot_details = await StreamBot.get_me()
     return web.json_response({"status": "running",
-                              "maintained_by": "AafuSam13",
+                              "maintained_by": "@AafuSam013",
                               "server_permission": "Open",
                               "Telegram_Bot": '@'+bot_details.username})
 
