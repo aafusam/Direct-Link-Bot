@@ -45,6 +45,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 #### ♢ Click on This Drop-down and get more details
 
 <br>
+
 <details>
   <summary><b>Deploy on Heroku :</b></summary>
 
@@ -60,12 +61,5 @@ Press the below button to Fast deploy on Heroku
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables. </details>
 
-- [Contact On Telegram](https://telegram.me/AafuSam13)
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="https://back4app.com/deploy">
-  <img src="https://www.back4app.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
+
+<details>
