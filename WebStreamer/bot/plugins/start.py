@@ -15,7 +15,7 @@ START_TEXT = """
 <i>Clickk On Help Button Get Get Info!</i>\n
 <i><u>𝗪𝗔𝗥𝗡𝗜𝗡𝗚 </u></i>
 <b>🔞 Porn Content May Lead You To A Permanent Ban</b>\n\n
-<i><b>Developer:</b>@AafuSam013</i>"""
+<i><b>Developer:</b>@YOUR_DADDY_BRO</i>"""
 
 HELP_TEXT = """
 <i>- Forward Any Telegram File Or Media.</i>
@@ -24,12 +24,10 @@ HELP_TEXT = """
 <i>- This Is A Permanent Link</i>\n
 <u> 𝗪𝗔𝗥𝗡𝗜𝗡𝗚 </u>\n
 <b>🔞 Porn Content May Lead You To A Permanent Ban</b>\n
-<i>Contact Developer Or Report Bugs</i> <b>: <a href='https://t.me/AafuSam013'>[ Click Here]</a></b>"""
+<i>Contact Developer Or Report Bugs</i> <b>: <a href='https://t.me/your_daddy_bro'>[ Click Here]</a></b>"""
 
 ABOUT_TEXT = """
-<b>🧑🏻Mʏ ɴᴀᴍᴇ : Direct-Link-Bot</b>\n
-<b>🔸Movie Group : <a href='https://t.me/+VFyIZHcaMQtiYzRl'>Movies</a></b>\n
-<b>🔹Our Network : <a href='https://t.me/StarterNetworkZ'>Join</a></b>\n
+<b>🧑🏻Mʏ ɴᴀᴍᴇ : Direct-Link-Robot</b>\n
 <b>🔹Sᴏᴜʀᴄᴇ Code : <a href='https://github.com/aafusam/Direct-Link-Bot'>Github</a></b>\n
 <b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/AafuSam013'>AafuSam</a></b>\n
 <b>🔸Follow On Instagram : <a href='https://instagram.com/afiq_sam_/'>Instagram</a></b>"""
